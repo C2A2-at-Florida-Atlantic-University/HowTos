@@ -6,7 +6,8 @@
 ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝
  ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
 
-Files that you add to a repository via a browser are limited to 25 MB per file. You can add larger files, up to 100 MB each, but you need to use CLI for this. Follow these steps:
+Files that you add to a repository via a browser are limited to 25 MB per file.
+You can add larger files, up to 100 MB each, but you need to use CLI for this. Follow these steps:
 
 ╦┌┐┌┌─┐┌┬┐┌─┐┬  ┬  ┌─┐┌┬┐┬┌─┐┌┐┌
 ║│││└─┐ │ ├─┤│  │  ├─┤ │ ││ ││││
