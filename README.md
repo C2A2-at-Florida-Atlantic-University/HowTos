@@ -1,5 +1,5 @@
 # How Tos
-Collection or md files on how to do basic tasks
+Collection of md files on how to do basic tasks
 
 To add your own, create md file, name it How_to_XXXX.md and fill it in this format:
 
